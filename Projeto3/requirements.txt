@@ -1,0 +1,7 @@
+datasets
+langchain 
+langchain-community 
+langchain-huggingface
+google-genai
+sentence-transformers
+faiss-cpu
